@@ -3,14 +3,14 @@ layout: page
 title: Jermain C. Kaminski
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=b-HX-AYAAAAJ&hl=en)
-[Twitter](https://twitter.com/jermainkaminski)
-[Github](https://github.com/jermainkaminski)
-j.kaminski at maastrichtuniversity dot nl
+[Google Scholar](https://scholar.google.com/citations?user=b-HX-AYAAAAJ&hl=en)  
+[Twitter](https://twitter.com/jermainkaminski)   
+[Github](https://github.com/jermainkaminski)   
+j.kaminski at maastrichtuniversity dot nl   
 
 ### Bio
 
-I'm an Assistant Professor in Entrepreneurship and Innovation at Maastricht University and software developer in my freetime.
+Welcome! I'm an Assistant Professor in Entrepreneurship and Innovation at Maastricht University and software developer in my freetime.
 My recent interests include crowdfunding, causal inference in busiess strategy, applied machine learning, and experimental design.
 Besides my research, I enjoy teaching entrepreneurship courses or empirical methods to Bachelor, Master, MBA, and PhD students.
 Most recently, I launched [causalscience.org](https://causalscience.org) and the Causal Data Science Meeting with colleagues at Maastricht University and Copenhagen Business School.
