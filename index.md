@@ -45,11 +45,11 @@ Together with co-authors, I have published on using [machine leaning to predict 
 
 * Christian Hopp, David Antons, **Jermain Kaminski**, Torsten Oliver Salge. "Disruptive innovation: Conceptual foundations, empirical evidence, and research opportunities in the digital age." [Journal of Product Innovation Management 35(3) (2018: 446-457)](https://doi.org/10.1111/jpim.12448).
 
-* Christian Hopp, David Antons, **Jermain Kaminski**, Torsten Oliver Salge. "Perspective: The Topic Landscape of Disruption Research—A Call for Consolidation, Reconciliation, and Generalization." [Journal of Product Innovation Management 35(3) (2018: 458-487)](https://doi.org/10.1111/jpim.12440).
+* Christian Hopp, David Antons, **Jermain Kaminski**, Torsten Oliver Salge. "Perspective: The topic landscape of disruption research — A call for consolidation, reconciliation, and generalization." [Journal of Product Innovation Management 35(3) (2018: 458-487)](https://doi.org/10.1111/jpim.12440).
 
 
 ### Peer-reviewed conference proceedings
 
 * **Jermain Kaminski**, Yibin Jiang, Frank Piller, and Christian Hopp. "Do user entrepreneurs speak different? Applying natural language processing to crowdfunding videos." [Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems (2017): 2683-2689](https://doi.org/10.1145/3027063.3053223). 
 
-* **Jermain Kaminski**. "Nowcasting the bitcoin market with twitter signals." [Proceedings of the Collective Intelligence Conference (2014: arXiv:1406.7577)](https://arxiv.org/abs/1406.7577).
+* **Jermain Kaminski**. "Nowcasting the bitcoin market with Twitter signals." [Proceedings of the Collective Intelligence Conference (2014: arXiv:1406.7577)](https://arxiv.org/abs/1406.7577).
