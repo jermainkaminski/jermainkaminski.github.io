@@ -3,7 +3,7 @@ layout: page
 title: Jermain C. Kaminski
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=b-HX-AYAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=b-HX-AYAAAAJ&hl=en)   
 [Twitter](https://twitter.com/jermainkaminski)   
 [Github](https://github.com/jermainkaminski)   
 j.kaminski at maastrichtuniversity dot nl   
