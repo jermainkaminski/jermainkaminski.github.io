@@ -5,12 +5,16 @@ title: Jermain C. Kaminski
 
 <img src="https://avatars.githubusercontent.com/u/6346677?v=4" width="200" height="200" style="padding-top: 20px; padding-bottom:20px">
 
-[Google Scholar](https://scholar.google.com/citations?user=b-HX-AYAAAAJ&hl=en)<br> 
-[Twitter](https://twitter.com/jermainkaminski)<br>
-j.kaminski at maastrichtuniversity dot nl <br>
+I'm working on my new website. For the meantime, you're welcome on this construction site.
 
-<div style="background: #eee; padding: 15px;">
+- [Google Scholar](https://scholar.google.com/citations?user=b-HX-AYAAAAJ&hl=en)<br> 
+- [Twitter](https://twitter.com/jermainkaminski)<br>
+- j.kaminski at maastrichtuniversity dot nl <br>
+
+<div style="background: #efefef; padding: 15px;">
+  
 * **[Causal Data Science Meeting 2021](https://causalscience.org)** (jointly organized with colleagues at Maastricht University and Copenhagen School of Business). Join the conference and listen to Keynote speakers (Sara Magliacane)[https://smaglia.wordpress.com] and (Guido Imbens)[https://www.gsb.stanford.edu/faculty-research/faculty/guido-w-imbens], _November 15-16, 2021_. 
+  
 </div>
 
 ### Bio
