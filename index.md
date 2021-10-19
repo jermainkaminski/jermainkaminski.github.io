@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Jermain C. Kaminski
+description: Assistant Professor in Entrepreneurship and Innovation, Maastricht University
 ---
 
 <img src="https://avatars.githubusercontent.com/u/6346677?v=4" width="200" height="200" style="padding-top: 20px; padding-bottom:20px">
