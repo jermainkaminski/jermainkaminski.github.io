@@ -11,9 +11,9 @@ I'm working on my new website. For the meantime, you're welcome on this construc
 - [Twitter](https://twitter.com/jermainkaminski)<br>
 - j.kaminski at maastrichtuniversity dot nl <br>
 
-<div style="background: #efefef; padding: 15px;">
+<div style="background-image: linear-gradient(rgba(232,240,255,0.4) 0px, rgba(255,255,255,0.4) 100px); padding: 15px;">
   
-* **[Causal Data Science Meeting 2021](https://causalscience.org)** (jointly organized with colleagues at Maastricht University and Copenhagen School of Business). Join the conference and listen to Keynote speakers (Sara Magliacane)[https://smaglia.wordpress.com] and (Guido Imbens)[https://www.gsb.stanford.edu/faculty-research/faculty/guido-w-imbens], _November 15-16, 2021_. 
+  <a href="https://causalscience.org"><strong>Causal Data Science Meeting 2021</strong></a>, November 15-16, 2021 (jointly organized with colleagues at Maastricht University and Copenhagen School of Business). Join the "industry-meets-academia" conference and listen to Keynote speakers <a href="https://smaglia.wordpress.com">Sara Magliacane</a> and <a href="https://www.gsb.stanford.edu/faculty-research/faculty/guido-w-imbens">Guido Imbens</a>. 
   
 </div>
 
