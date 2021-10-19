@@ -5,7 +5,7 @@ title: Jermain C. Kaminski
 
 <img src="https://avatars.githubusercontent.com/u/6346677?v=4" width="200" height="200" style="padding-top: 20px; padding-bottom:20px">
 
-I'm working on my new website. For the meantime, you're welcome on this construction site.
+I'm working on my new website. In the meantime, you're welcome on this construction site.
 
 - [Google Scholar](https://scholar.google.com/citations?user=b-HX-AYAAAAJ&hl=en)<br> 
 - [Twitter](https://twitter.com/jermainkaminski)<br>
