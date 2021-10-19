@@ -3,15 +3,19 @@ layout: page
 title: Jermain C. Kaminski
 ---
 
+<img src="https://avatars.githubusercontent.com/u/6346677?v=4" width="200" height="200" style="padding-top: 20px; padding-bottom:20px">
+
 [Google Scholar](https://scholar.google.com/citations?user=b-HX-AYAAAAJ&hl=en)   
-[Twitter](https://twitter.com/jermainkaminski)   
-[Github](https://github.com/jermainkaminski)   
+[Twitter](https://twitter.com/jermainkaminski)
 j.kaminski at maastrichtuniversity dot nl   
+
+<div style="background: #eee; padding: 15px;">
+* **[Causal Data Science Meeting 2021](https://causalscience.org)** (jointly organized with colleagues at Maastricht University and Copenhagen School of Business). Join the conference and listen to Keynote speakers (Sara Magliacane)[https://smaglia.wordpress.com] and (Guido Imbens)[https://www.gsb.stanford.edu/faculty-research/faculty/guido-w-imbens], _November 15-16, 2021_. 
+</div>
 
 ### Bio
 
-Welcome! I'm an Assistant Professor in Entrepreneurship and Innovation at Maastricht University.
-My recent research interests include crowdfunding, causal inference in business strategy, and applied machine learning. Besides my research, I enjoy teaching entrepreneurship courses or empirical methods to Bachelor, Master, MBA, and PhD students. Most recently, I launched [causalscience.org](https://causalscience.org) and the Causal Data Science Meeting with colleagues at Maastricht University and Copenhagen Business School.
+Welcome! I'm an Assistant Professor in Entrepreneurship and Innovation at Maastricht University. My recent research interests include crowdfunding, causal inference in business strategy, and applied machine learning. Besides my research, I enjoy teaching entrepreneurship courses or empirical methods to Bachelor, Master, MBA, and PhD students. Most recently, I launched [causalscience.org](https://causalscience.org) and the Causal Data Science Meeting with colleagues at Maastricht University and Copenhagen Business School.
 
 I obtained my PhD in 2019 from [RWTH Aachen University](https://time.rwth-aachen.de). During my graduate studies and PhD, I was a visiting researcher at the [MIT Center for Collective Intelligence](https://cci.mit.edu) at the [Sloan School of Management](https://mitsloan.mit.edu) and Collective Learning Group at the [MIT Media Lab](https://media.mit.edu). I studied at [Witten/Herdecke University](https://www.uni-wh.de/en/uwh-international/start/), Germany, and was a visiting student at the [Massachusetts Institute of Technology](https://mit.edu), USA. I am a co-founder of the startup [MovieGalaxies](https://moviegalaxies.com), providing open source network data on [Harvard DataVerse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3). In 2014-2015, I worked in a research project on data analytics in soccer for a Bundesliga club, specializing on complexity in passing networks.
 
@@ -24,6 +28,8 @@ Together with co-authors, I have published on using [machine leaning to predict 
 * **[Technology Entrepreneurship](https://www.maastrichtuniversity.nl/meta/392440/technology-entrepreneurship)** (EBC2144) - [Cross-faculty](https://www.maastrichtuniversity.nl/about-um/faculties/). Avg. tutor grade _9.4 / 10.0_.
 
 * **[Commercialization of Science and Technology](https://www.maastrichtuniversity.nl/meta/390956/commercializing-science-and-technology)** (INT1005) - [Maastricht Science Programme](https://maastrichtuniversity.nl/education/bachelor/bachelor-maastricht-science-programme). Avg. tutor grade _9.2 / 10.0_.
+
+* **[Data Analytics in Practice](https://www.maastrichtuniversity.nl/meta/413765/data-analytics-practice)** (EBC4135) - Research Master in Business (2019/2020).
 
 ### Working Papers
 
