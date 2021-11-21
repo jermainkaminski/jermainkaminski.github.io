@@ -38,9 +38,11 @@ Together with co-authors, I have published on using [machine leaning to predict 
 
 ### Working Papers
 
-* Paul Hünermund, **Jermain Kaminski**, Carla Schmitt. "Causal Machine Learning and Business Decision Making." [Working Paper](https://causalscience.org/Working-Paper.pdf) (February 15, 2021).
+* Paul Hünermund, **Jermain Kaminski**, Carla Schmitt. "Causal Machine Learning and Business Decision Making." [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3867326) (May 18, 2021).
 
 ### Publications
+
+* Gloria Barczak, Christian Hopp, **Jermain Kaminski**, Frank Piller and Gernot Pruschak*. "How open is innovation research? – An empirical analysis of data sharing among innovation scholars." [Industry & Innovation (2021, Online First)](https://www.tandfonline.com/doi/pdf/10.1080/13662716.2021.1967727).
 
 * Stefan Rose, Daniel Wentzel, Christian Hopp, and **Jermain Kaminski**. "Launching for success: The effects of psychological distance and mental simulation on funding decisions and crowdfunding performance." [Journal of Business Venturing (2020): In Press](https://doi.org/10.1016/j.jbusvent.2020.106021). [Open Access at SocArXiv](https://osf.io/preprints/socarxiv/fqbwk/).
 
