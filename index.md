@@ -30,9 +30,9 @@ Together with co-authors, I have published on using [machine leaning to predict 
 
 * **[Digital Entrepreneurship](https://www.maastrichtuniversity.nl/meta/403810/digital-entrepreneurship)** (EBC4266) - [Cross-faculty](https://www.maastrichtuniversity.nl/about-um/faculties/), _Ongoing_. 
 
-* **[Technology Entrepreneurship](https://www.maastrichtuniversity.nl/meta/392440/technology-entrepreneurship)** (EBC2144) - [Cross-faculty](https://www.maastrichtuniversity.nl/about-um/faculties/). Avg. tutor grade _9.4 / 10.0_.
+* **[Technology Entrepreneurship](https://www.maastrichtuniversity.nl/meta/392440/technology-entrepreneurship)** (EBC2144) - [Cross-faculty](https://www.maastrichtuniversity.nl/about-um/faculties/). Avg. tutor grade _9.6 / 10.0_.
 
-* **[Commercialization of Science and Technology](https://www.maastrichtuniversity.nl/meta/390956/commercializing-science-and-technology)** (INT1005) - [Maastricht Science Programme](https://maastrichtuniversity.nl/education/bachelor/bachelor-maastricht-science-programme). Avg. tutor grade _9.2 / 10.0_.
+* **[Commercialization of Science and Technology](https://www.maastrichtuniversity.nl/meta/390956/commercializing-science-and-technology)** (INT1005) - [Maastricht Science Programme](https://maastrichtuniversity.nl/education/bachelor/bachelor-maastricht-science-programme). Avg. tutor grade _9.6 / 10.0_.
 
 * **[Data Analytics in Practice](https://www.maastrichtuniversity.nl/meta/413765/data-analytics-practice)** (EBC4135) - Research Master in Business (2019/2020).
 
