@@ -13,8 +13,7 @@ I'm working on my new website. In the meantime, you're welcome on this construct
 - j.kaminski at maastrichtuniversity dot nl <br>
 
 <div style="background-image: linear-gradient(rgba(232,240,255,0.4) 0px, rgba(255,255,255,0.4) 100px); padding: 15px;">
-  
-  <a href="https://causalscience.org"><strong>Causal Data Science Meeting 2022</strong></a>, November 7-8, 2022 (jointly organized with colleagues at Maastricht University and Copenhagen School of Business). Join the "industry-meets-academia" conference and listen to Keynote speakers <a href="https://www.causalscience.org/meeting/keynotes/speakers/">Sara Magliacane</a> and <a href="https://www.causalscience.org/meeting/keynotes/speakers/)">Judea Pearl</a>. 
+  <a href="https://www.causalscience.org/blog/causal-data-science-meeting-2022-call-for-papers"><strong>Causal Data Science Meeting 2022</strong></a>, November 7-8, 2022 (jointly organized with colleagues at Maastricht University and Copenhagen School of Business). Join the "industry-meets-academia" conference and listen to Keynote speakers <a href="https://www.causalscience.org/meeting/keynotes/speakers/">Sara Magliacane</a> and <a href="https://www.causalscience.org/meeting/keynotes/speakers/">Judea Pearl</a>.
   
 </div>
 
