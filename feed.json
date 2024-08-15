@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Jermain Kaminski",
     "description": "",
-    "home_page_url": "http://jermainkaminski.com",
-    "feed_url": "http://jermainkaminski.com/feed.json",
+    "home_page_url": "https://jermainkaminski.com",
+    "feed_url": "https://jermainkaminski.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Jermain Kaminski"
     },
     "items": [
         {
-            "id": "http://jermainkaminski.com/testing.html",
-            "url": "http://jermainkaminski.com/testing.html",
+            "id": "https://jermainkaminski.com/testing.html",
+            "url": "https://jermainkaminski.com/testing.html",
             "title": "Testing",
             "summary": "Test successful.",
             "content_html": "<p class=\"msg msg--success\">Test successful.</p>",
