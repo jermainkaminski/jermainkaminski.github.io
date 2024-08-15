@@ -3,10 +3,30 @@
     <title>Jermain Kaminski</title>
     <link href="http://jermainkaminski.com/feed.xml" rel="self" />
     <link href="http://jermainkaminski.com" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2024-08-15T12:50:17+02:00</updated>
     <author>
         <name>Jermain Kaminski</name>
     </author>
     <id>http://jermainkaminski.com</id>
 
+    <entry>
+        <title>Testing</title>
+        <author>
+            <name>Jermain Kaminski</name>
+        </author>
+        <link href="http://jermainkaminski.com/testing.html"/>
+        <id>http://jermainkaminski.com/testing.html</id>
+
+        <updated>2024-08-15T12:50:17+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Test successful.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="msg msg--success">Test successful.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
