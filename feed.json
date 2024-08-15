@@ -9,19 +9,5 @@
         "name": "Jermain Kaminski"
     },
     "items": [
-        {
-            "id": "http://jermainkaminski.com/here-we-go.html",
-            "url": "http://jermainkaminski.com/here-we-go.html",
-            "title": "Here we go",
-            "summary": "<pre class=\"line-numbers  language-html\"><code></code></pre>\n",
-            "content_html": "<pre class=\"line-numbers  language-html\"><code></code></pre>\n",
-            "author": {
-                "name": "Jermain Kaminski"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-08-15T10:52:31+02:00",
-            "date_modified": "2024-08-15T10:52:31+02:00"
-        }
     ]
 }
