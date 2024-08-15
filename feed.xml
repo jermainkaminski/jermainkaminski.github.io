@@ -3,12 +3,24 @@
     <title>Jermain Kaminski</title>
     <link href="https://jermainkaminski.com/feed.xml" rel="self" />
     <link href="https://jermainkaminski.com" />
-    <updated>2024-08-15T12:50:17+02:00</updated>
+    <updated>2024-08-15T13:06:32+02:00</updated>
     <author>
         <name>Jermain Kaminski</name>
     </author>
     <id>https://jermainkaminski.com</id>
 
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Jermain Kaminski</name>
+        </author>
+        <link href="https://jermainkaminski.com/test.html"/>
+        <id>https://jermainkaminski.com/test.html</id>
+
+        <updated>2024-08-15T13:06:32+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Testing</title>
         <author>
